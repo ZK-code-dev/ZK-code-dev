@@ -1,27 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Cybersecurity Website</title>
-    
-    <!-- Internal CSS -->
-    <style>
-        /* Reset and basic styles */
-        body, ul, li, h1, h2, a, p {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-        }
-
-        /* Header styling */
-        header {
-            background-color: #F63232;
-            padding: 20px;
-            text-align: center;
-            position: fixed;
-            width: 100%;
-
+<p align="center">
+  <img src="https://github.com/ZK-code-dev/learning1-repo-/blob/main/20250907_1614_Elegant%20Cybersecurity%20Banner_simple_compose_01k4hcws23ej0a7v98mr5brvg9.png?raw=true" 
+       alt="Profile Banner" 
+       style="max-width: 100%; height: auto;">
+</p>
 
 # Hi there 👋, I'm ZK-code-dev
 
