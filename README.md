@@ -15,14 +15,14 @@
 I'm a **university student studying Cybersecurity** 🔐 with a passion for **coding and web development**.  
 After starting coding in my uni course, I fell in love with it and continued learning **Python, HTML, CSS**, and soon **JavaScript**! 🚀  
 
-<br>
+---
 
 ## 💻 Skills & Tools
 - **Languages:** Python, HTML, CSS (soon JavaScript)  
 - **Web Development:** Frontend with HTML/CSS, building beginner projects  
 - **Cybersecurity:** Learning through my Cert III in IT (cyber-pathway) + Cert IV in Cyber Security courses. Personal learning using TryHackMe courses & practice challenges. 
 
-<br>
+---
 
 ## 🔭 Current Projects
 Check out my repositories! I'm working on:
@@ -31,20 +31,22 @@ Check out my repositories! I'm working on:
 - Following tutorials from **Frontend Mentor**, **Net Ninja**, and **Mosh Hamdanis**  
 - Expanding my skills with cybersecurity challenges  
 
-<br>
+I’ll be adding more projects soon, so stay tuned!  
+
+---
 
 ## 🎯 Goals
 - Reach a high level in **cybersecurity and hacking/programming**  
 - Enhance **frontend web development skills**  
 - Understand how hackers exploit websites/apps and **help companies secure their systems** 🛡️  
 
-<br>
+---
 
 ## 📊 GitHub Stats
 ![ZK-code-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZK-code-dev&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZK-code-dev&layout=compact&theme=radical)  
 
-<br>
+---
 
 ## 🤝 Let’s Connect
 You can explore my work, leave comments, or discuss ideas directly in my repositories! 💬
