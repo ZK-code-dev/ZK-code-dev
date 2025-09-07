@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://github.com/ZK-code-dev/learning1-repo-/blob/main/20250907_1614_Elegant%20Cybersecurity%20Banner_simple_compose_01k4hcws23ej0a7v98mr5brvg9.png?raw=true" 
-       alt="Profile Pic" 
-       width="150" 
-       style="border-radius: 50%;">
-</p>
+<img src="https://github.com/ZK-code-dev/learning1-repo-/blob/main/20250907_1614_Elegant%20Cybersecurity%20Banner_simple_compose_01k4hcws23ej0a7v98mr5brvg9.png?raw=true" 
+     alt="Profile Pic" 
+     width="150" 
+     align="left"
+     style="margin-right: 20px; margin-bottom: 10px;">
+
 
 
 
