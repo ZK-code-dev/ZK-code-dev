@@ -4,8 +4,6 @@
      align="left"
      style="margin-right: 20px; margin-bottom: 10px;">
 
-
-
 # Hi there 👋, I'm ZK-code-dev
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
