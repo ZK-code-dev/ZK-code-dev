@@ -1,10 +1,15 @@
-![Profile Banner](https://github.com/ZK-code-dev/learning1-repo-/blob/main/Capture.PNG?raw=true) 
+<p align="center">
+  <img src="https://github.com/ZK-code-dev/learning1-repo-/blob/main/Capture.PNG?raw=true" 
+       alt="Profile Banner" 
+       width="100%">
+</p>
 
 # Hi there 👋, I'm ZK-code-dev
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
 I'm a **university student studying Cybersecurity** 🔐 with a passion for **coding and web development**.  
