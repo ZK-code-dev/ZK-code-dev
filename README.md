@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/ZK-code-dev/learning1-repo-/blob/main/Capture.PNG?raw=true" 
        alt="Profile Banner" 
-       width="100%">
+       width="100%" height="200">
 </p>
+
 
 # Hi there 👋, I'm ZK-code-dev
 
