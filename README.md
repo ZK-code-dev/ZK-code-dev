@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
-I'm a **university student studying Cybersecurity** 🔐 with a passion for **coding and web development**.  
+I'm a **student studying Cybersecurity** 🔐 with a passion for **coding and web development**.  
 After starting coding in my uni course, I fell in love with it and continued learning **Python, HTML, CSS**, and soon **JavaScript**! 🚀  
 
 ---
