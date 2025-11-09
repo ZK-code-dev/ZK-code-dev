@@ -1,9 +1,3 @@
-<img src="https://github.com/ZK-code-dev/learning1-repo-/blob/main/20250907_1756_Visible%20Eyelashes_remix_01k4hjqb73fmp8fvv0dwrdsctc.png?raw=true" 
-     alt="Profile Pic" 
-     width="150" 
-     align="left"
-     style="margin-right: 20px; margin-bottom: 10px;">
-
 # Hi there 👋, I'm ZK-code-dev
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
